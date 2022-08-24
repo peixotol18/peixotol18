@@ -1,8 +1,8 @@
 # Sobre o Peixoto
 
-:smiley: - Meu nome é Joao Peixoto
+ :smiley: - Meu nome é Joao Peixoto
 - Tenho 16 anos
-- Esudo no Colegio Civico Militar Marechal Rondon
+- :office: - Estudo no Colegio Civico Militar Marechal Rondon
 - Estou aprendendo Programaçao: Scratch, JavaScript
 - Jogo Futsal e Futebol
 - Faço Musculaçao, em Academia 
