@@ -3,11 +3,13 @@
  :smiley: - Meu nome é Joao Peixoto
 - Tenho 16 anos
 - :office: - Estudo no Colegio Civico Militar Marechal Rondon
-- Estou aprendendo Programaçao: Scratch, JavaScript
-- Jogo Futsal e Futebol
-- Faço Musculaçao, em Academia 
-- Gosto muito de musica de diversos generos
-- gosto muito do neymar
+-	:computer: - Estou aprendendo Programaçao: Scratch, JavaScript
+- 	:soccer: - Jogo Futsal e Futebol
+- :muscle: - Faço Musculaçao, em Academia 
+- :headphones: - Gosto muito de msica de diversos gêneros
+- :star_struck: - gosto muito do neymar
+- :left_speech_bubble: - <a href = "mailto:joao.lopes.peixoto@escola.pr.gov.br><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
